@@ -1,0 +1,34 @@
+
+{
+	"schemaVersion": 1,
+	"id": "villager-trade-reroller",
+	"version": "${version}",
+	"name": "Villager Trade Reroller",
+	"description": "Automatically search for specific enchanted book trades from villagers.",
+	"authors": [
+		"Spring__SAMA"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.villagertradereroller.VillagerTradeReroller"
+		],
+		"client": [
+			"com.example.villagertradereroller.client.VillagerTradeRerollerClient"
+		]
+	},
+	"mixins": [
+		"villager-trade-reroller.mixins.json",
+		{
+			"config": "villager-trade-reroller.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

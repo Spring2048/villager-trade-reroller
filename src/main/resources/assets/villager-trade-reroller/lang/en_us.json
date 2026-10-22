@@ -1,0 +1,16 @@
+{
+  "screen.villager-trade-reroller.title": "Villager Trade Reroller",
+  "screen.villager-trade-reroller.search": "Enchantment Search",
+  "screen.villager-trade-reroller.search_hint": "Enter name, pinyin or ID",
+  "screen.villager-trade-reroller.available": "Available Enchantments",
+  "screen.villager-trade-reroller.preview": "Enchantment Preview",
+  "screen.villager-trade-reroller.description": "Enchantment Description",
+  "screen.villager-trade-reroller.start": "Click to Start Rerolling",
+  "screen.villager-trade-reroller.select_hint": "Search and Select an Enchantment Level",
+  "screen.villager-trade-reroller.no_results": "No Enchantments Found",
+  "screen.villager-trade-reroller.results": "%s results",
+  "screen.villager-trade-reroller.scroll": "Scroll: %s/%s",
+  "screen.villager-trade-reroller.button": "Target Enchantment",
+  "key.villager-trade-reroller.open_selection": "Open Enchantment Selection",
+  "category.villager-trade-reroller": "Villager Trade Reroller"
+}

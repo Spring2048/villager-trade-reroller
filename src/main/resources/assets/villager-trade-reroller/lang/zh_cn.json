@@ -1,0 +1,16 @@
+{
+  "screen.villager-trade-reroller.title": "村民交易刷新器",
+  "screen.villager-trade-reroller.search": "附魔搜索",
+  "screen.villager-trade-reroller.search_hint": "输入名称、拼音或 ID",
+  "screen.villager-trade-reroller.available": "可交易的附魔",
+  "screen.villager-trade-reroller.preview": "附魔预览",
+  "screen.villager-trade-reroller.description": "附魔说明",
+  "screen.villager-trade-reroller.start": "点击开始刷新",
+  "screen.villager-trade-reroller.select_hint": "搜索并选择附魔等级",
+  "screen.villager-trade-reroller.no_results": "没有找到附魔",
+  "screen.villager-trade-reroller.results": "%s 个结果",
+  "screen.villager-trade-reroller.scroll": "滚动：%s/%s",
+  "screen.villager-trade-reroller.button": "目标附魔",
+  "key.villager-trade-reroller.open_selection": "打开附魔选择界面",
+  "category.villager-trade-reroller": "村民交易刷新器"
+}
